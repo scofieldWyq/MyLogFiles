@@ -1,0 +1,6 @@
+2014/8/4
+	23:59
+		Android Button的学习和使用，还有布局的基本的了解和使用。
+2014/8/6
+	23:00
+		Android menu 和 startgame的学习。。。。。
